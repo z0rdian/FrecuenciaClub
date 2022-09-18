@@ -35,14 +35,14 @@ const Homepage2 = () => {
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <IntroWithSlider2 />
-      <BlcSec />
+      {/* <BlcSec />
       <Services2 />
       <VideoWithTestimonials />
       <SkillsCircle theme="dark" subBG />
       <PortfolioCustomColumn column={3} filterPosition="center" />
       <Clients1 theme="dark" subBG />
       <CallToAction />
-      <Footer />
+      <Footer /> */}
     </DarkTheme>
   );
 };

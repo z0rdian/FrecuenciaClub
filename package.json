@@ -2,9 +2,11 @@
   "name": "avo2-react",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
-    "export": "next build && next export",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -22,7 +24,9 @@
     "swiper": "^7.4.1"
   },
   "devDependencies": {
-    "eslint": "8.6.0",
-    "eslint-config-next": "12.0.7"
+    "@babel/preset-env": "^7.18.10",
+    "@netlify/plugin-nextjs": "^4.0.0-beta.4",
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.1.0"
   }
 }

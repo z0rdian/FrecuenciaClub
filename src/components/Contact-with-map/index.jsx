@@ -85,7 +85,7 @@ const ContactWithMap = () => {
                           />
                         </div>
 
-                        <button type="submit" className="btn-curve btn-lit">
+                        <button Action="/services" type="submit" className="btn-curve btn-lit">
                           <span>Send Message</span>
                         </button>
                       </div>

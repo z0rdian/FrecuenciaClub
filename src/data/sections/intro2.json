@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": {
-      "first": "Unique",
-      "second": "brand Stories"
+      "first": "artistas",
+      "second": "musicales"
     },
-    "image": "/img/slid/01.jpg"
+    "image": "/img/slid/01.png"
   },
   {
     "id": 2,
     "title": {
-      "first": "Digital",
-      "second": "Design Awards"
+      "first": "tattoo",
+      "second": "studio"
     },
-    "image": "/img/slid/03.jpg"
+    "image": "/img/slid/03.png"
   },
   {
     "id": 3,
     "title": {
-      "first": "Original",
-      "second": "Solutions"
+      "first": "Frecuencia",
+      "second": "Indumentaria"
     },
-    "image": "/img/slid/02.jpg"
+    "image": "/img/slid/02.png"
   }
 ]

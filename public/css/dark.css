@@ -1281,7 +1281,7 @@ body {
 .bg-color h5,
 .bg-color h6,
 .bg-color span {
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 [data-overlay-dark] p,
@@ -1718,9 +1718,9 @@ body {
   opacity: 1;
   cursor: pointer;
 }
-.navbar .logo {
+/* .navbar .logo {
   width: 50px;
-}
+} */
 
 .nav-scroll {
   background: #11141b;
